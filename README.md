@@ -1,4 +1,6 @@
 # LabVIEW-halftone-Picture2CutPaperArt
+LabVIEW
+
 
 這個VI可以將bmp圖片或是jpg圖片轉成 半色調halftone的圖片
 
